@@ -1,0 +1,14 @@
+SSR approaches as given below :-
+				-getServerSideProps
+					DATA WILL RENDER EVERY TIMR THE PAGE REFRESHES
+				-getStaticProps
+					DATA WILL RRENDER ONLY ONCE 
+				-getStaticPaths
+
+	API folder
+
+	Interface describes the shape of an object
+	npx create-next-app -o with-tailwindcss twitter-clone
+
+	Framer Motion for animations from react framer-motion library
+	react-icons for icon library
