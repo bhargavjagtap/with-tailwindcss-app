@@ -15,9 +15,9 @@ const Sidebar = () => {
   return (  
     <>
       <Image
-        src="https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg"
+        src="https://i.postimg.cc/yYZPXBDt/profile.jpg"
         alt="avatar"
-        className="mx-auto border rounded-full "
+        className="mx-auto border rounded-full"
         height="128px"
         width="128px"
         layout="intrinsic"
