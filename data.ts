@@ -132,4 +132,13 @@ export const projects:IProject[] = [
         category : ['sanity', 'tailwind', 'nextjs'],
         key_tags : ['Nextjs', 'Clone', 'App', 'Sanity'],
     },
+    {
+        name : 'Hulu Clone',
+        description : 'Hulu Clone using Next.js and TailwindCSS',
+        image_path : 'https://i.postimg.cc/4xSfBzVZ/Screenshot-from-2022-02-08-14-16-44.png',
+        deployed_url : 'https://hulu-clone-eight-chi.vercel.app/',
+        github_url : 'https://github.com/bhargavjagtap/hulu-clone',
+        category : ['tailwind', 'nextjs'],
+        key_tags : ['Nextjs', 'Clone', 'App', 'Tailwind'],
+    },
 ]
